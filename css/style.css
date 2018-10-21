@@ -105,13 +105,13 @@ Header
     padding-top: 10px;
 }
 a.btn-banner {
-    border: 1px solid #cdcdcd;
+    border: 2px solid #ffffff;
     padding: 12px 22px;
     line-height: 0px;
-    border-radius: 3px;
+    border-radius: 9px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    font-size: 11px;
+    font-size: 14px;
     text-transform: uppercase;
     color: #ffffff;
     letter-spacing: 1px;
